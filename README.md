@@ -1,7 +1,7 @@
 
 # 📊 Informe Técnico: Sistema de Análisis de Transporte Público
 
-## Colaboradores: @matias-bello-rodriguez & @residente
+## Colaboradores: @matias-bello-rodriguez & @reisidente
 
 ## 📌 Informe N°2 - Arquitectura Batch
 
